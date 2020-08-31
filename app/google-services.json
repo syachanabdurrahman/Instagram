@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430551237795",
+    "firebase_url": "https://sosial-media-f1322.firebaseio.com",
+    "project_id": "sosial-media-f1322",
+    "storage_bucket": "sosial-media-f1322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430551237795:android:f7d78da3dadaa91f49ab16",
+        "android_client_info": {
+          "package_name": "com.syachan.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430551237795-ptclspa1fm3m5ubu7tgd3ibo8eaumqa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syachan.instagram",
+            "certificate_hash": "670bb169fca2b4a7609807cb1de8da61b3f1dc5c"
+          }
+        },
+        {
+          "client_id": "430551237795-8rdvq578555vs20utrlig1kvoqsftuct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnbToCi03mPpcrHSPUVuu0Ms-D68sXb-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430551237795-8rdvq578555vs20utrlig1kvoqsftuct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
